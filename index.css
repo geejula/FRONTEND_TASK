@@ -8,6 +8,39 @@
     background-color: grey;
     padding-block: 1.2%;
 }
+.division{
+    display:flex;
+    justify-content: space-between;
+}
+.content{
+    
+    background-color: grey;
+    text-align:center;
+    display:inline-block;
+    padding-top: 150px;
+    width: 247px;
+    height: 200px;
+}
+.content1{
+    
+    background-color: grey;
+    text-align:center;
+    display:inline-block;
+    padding-top: 150px;
+    width: 735px;
+    height: 200px ;
+    border-right: 20px;
+}
+/*.content2{
+    
+    background-color: grey;
+    text-align:center;
+    display:inline-block;
+    padding-top: 150px;
+    width: 246px;
+    height: 200px;
+}
+*/
 .footer{
     text-align:center;
     background-color: grey;
